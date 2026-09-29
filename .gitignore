@@ -1,0 +1,30 @@
+# macOS
+.DS_Store
+
+# Unity caches, temporary files, and user settings
+/Unity/Bunnage/[Ll]ibrary/
+/Unity/Bunnage/[Tt]emp/
+/Unity/Bunnage/[Oo]bj/
+/Unity/Bunnage/[Ll]ogs/
+/Unity/Bunnage/[Uu]ser[Ss]ettings/
+/Unity/Bunnage/[Mm]emoryCaptures/
+/Unity/Bunnage/[Rr]ecordings/
+
+# Build outputs
+/Builds/
+/Unity/Bunnage/[Bb]uild/
+/Unity/Bunnage/[Bb]uilds/
+
+# IDE user settings and generated project files
+/Unity/Bunnage/.vs/
+/Unity/Bunnage/.idea/
+/Unity/Bunnage/*.csproj
+/Unity/Bunnage/*.sln
+/Unity/Bunnage/*.slnx
+/Unity/Bunnage/*.user
+/Unity/Bunnage/*.suo
+
+# Signing credentials
+*.p12
+*.pfx
+*.mobileprovision
